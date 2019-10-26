@@ -1,0 +1,135 @@
+body {
+  background-color: white;
+  font-family: Poppins;
+margin-top: 25px;
+  }
+
+.top-container {
+  text-align: center;
+
+}
+
+.h1 {
+  font-weight: 200;
+  color: gray;
+margin-bottom: 0px;
+margin-top: 0px;
+}
+.h12{
+  margin-top: -10px;
+  letter-spacing: 1px;
+}
+.h3 {
+    font-weight: 400;
+  width: 40%;
+  margin: 0px auto 30px auto;
+  font-size: 15px;
+  color: gray;
+
+  }
+.p
+{
+  font-size: 15px;
+  font-weight: 200;
+  color: gray;
+
+}
+
+.supervisor {
+  border-top: solid;
+  width: 350px;
+  height: 250px;
+  position: relative;
+  float: left;
+  padding-left: 20px;
+  margin-top: 150px;
+  border-top-color: #45d3d3;
+  border-radius: 2%;
+  box-shadow: 0.5px 2px 10px 1px #B3B3B3;
+
+}
+
+.teambuilder {
+  border-top: solid;
+  width: 350px;
+  height: 250px;
+  position: relative;
+  padding-left: 20px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  border-top-color: #ea5353;
+  border-radius: 2%;
+box-shadow: 0.5px 2px 10px 1px #B3B3B3;
+}
+
+.karma {
+  border-top: solid;
+  width: 350px;
+  height: 250px;
+  position: relative;
+  padding-left: 20px;
+  margin-left: 50px;
+  border-top-color: #fcaf4a;
+  border-radius: 2%;
+box-shadow: 0.5px 2px 10px 1px #B3B3B3;
+}
+
+.calculator {
+  border-top: solid;
+  width: 350px;
+  height: 250px;
+  position: relative;
+  float: left;
+  padding-left: 20px;
+  margin-left: 50px;
+  margin-top: 150px;
+  border-top-color: #549ef2;
+  border-radius: 2%;
+box-shadow: 0.5px 2px 10px 1px #B3B3B3;
+}
+
+.icon-supervisor {
+  position: absolute;
+  left: 280px;
+  bottom: 20px;
+}
+
+.tbkarma {
+  position: relative;
+  float: left;
+}
+.large{
+  text-align: left;
+  margin-left: 10%;
+
+}
+
+.icon-team-builder{
+  position: absolute;
+  left: 280px;
+  bottom: 20px;
+}
+
+.icon-karma{
+  position: absolute;
+  left: 280px;
+  bottom: 20px;
+}
+
+.icon-calculator{
+  position: absolute;
+  left: 280px;
+  bottom: 20px;
+}
+
+.space{
+  height: 200px;
+  width: 100%;
+  position: relative;
+  float: left;
+}
+.para{
+  color:gray;
+  font-size: 0.9em;
+  padding: 10px;
+}
